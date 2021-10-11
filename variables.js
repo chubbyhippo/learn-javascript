@@ -6,9 +6,9 @@ var dob = new Date(2021, 12, 9);
 var person = {};
 var empty = undefined;
 
-console.log(firstName);
-console.log(age);
-console.log(isFemale);
-console.log(balance);
-console.log(dob);
-console.log(empty);
+console.log(typeof firstName);
+console.log(typeof age);
+console.log(typeof isFemale);
+console.log(typeof balance);
+console.log(typeof dob);
+console.log(typeof empty);
