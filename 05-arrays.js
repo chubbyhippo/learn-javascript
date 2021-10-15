@@ -1,4 +1,4 @@
-var animals = ["hippo", "rhino", "dog", "cat"];
+const animals = ["hippo", "rhino", "dog", "cat"];
 
 console.log(animals)
 console.log(animals.length)

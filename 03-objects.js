@@ -1,4 +1,4 @@
-var person = {
+const person = {
   firstName: "Douglas",
   age: 55,
   isFemale: false,

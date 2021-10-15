@@ -1,3 +1,3 @@
-var isAdult = false;
+const isAdult = false;
 console.log(isAdult);
 

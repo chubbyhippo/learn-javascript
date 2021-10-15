@@ -1,10 +1,10 @@
-var firstName = "Douglas";
-var age = 85;
-var isFemale = false;
-var balance = 100.32;
-var dob = new Date(2021, 12, 9);
-var person = {};
-var empty = undefined;
+const firstName = "Douglas";
+const age = 85;
+const isFemale = false;
+const balance = 100.32;
+const dob = new Date(2021, 12, 9);
+const person = {};
+const empty = undefined;
 
 console.log(typeof firstName);
 console.log(typeof age);
