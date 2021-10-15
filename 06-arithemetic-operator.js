@@ -1,13 +1,13 @@
-var addition = 1 + 1;
-var subtraction = 1 - 1;
-var division = 23 / 6;
-var multiplication = 23 * 6;
-var remainder = 10 % 7;
-var exponentation = 2 ** 64;
+const addition = 1 + 1;
+const subtraction = 1 - 1;
+const division = 23 / 6;
+const multiplication = 23 * 6;
+const remainder = 10 % 7;
+const exponentiation = 2 ** 64;
 
 console.log(addition);
 console.log(subtraction);
 console.log(division);
 console.log(multiplication);
 console.log(remainder);
-console.log(exponentation);
+console.log(exponentiation);
